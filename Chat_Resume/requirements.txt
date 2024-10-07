@@ -1,0 +1,14 @@
+fastapi
+boto3
+langchain
+uvicorn
+python-dotenv 
+langchain_community
+PyPDF2
+chromadb
+langchain_groq
+langchain_huggingface
+sentence-transformers
+pypdf
+mysql-connector-python
+langchain-openai
